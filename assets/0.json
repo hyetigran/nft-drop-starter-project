@@ -1,5 +1,5 @@
 {
-  "name": "NAME_OF_NFT",
+  "name": "Goblingutter",
   "symbol": "",
   "image": "0.png",
   "properties": {
@@ -11,7 +11,7 @@
     ],
     "creators": [
       {
-        "address": "INSERT_YOUR_WALLET_ADDRESS_HERE",
+        "address": "4pHCuvZqXzuxtesxvBLUK3n12VL7CBPkU7TrR239SvNt",
         "share": 100
       }
     ]

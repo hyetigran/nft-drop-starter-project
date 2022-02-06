@@ -1,0 +1,19 @@
+{
+  "name": "Hyehunter",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "4pHCuvZqXzuxtesxvBLUK3n12VL7CBPkU7TrR239SvNt",
+        "share": 100
+      }
+    ]
+  }
+}
